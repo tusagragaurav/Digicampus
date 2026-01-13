@@ -1,0 +1,9 @@
+{
+  "name": "DigiCampus AI LMS",
+  "description": "A comprehensive AI-powered Learning Management System featuring role-based dashboards, document analysis, and intelligent study assistants.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "display-capture"
+  ]
+}
